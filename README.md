@@ -1,9 +1,10 @@
 # Intern
 
-## Weekly metting activities
+## Weekly meting activities
+
 - Review Past Stage and tasks and checklist
 - Review next stage
-- Determine schedule (next weekly meeting, office dates, mettings dates)
+- Determine schedule (next weekly meeting, office dates, meetings dates)
 
 ## Resources
 
@@ -11,6 +12,6 @@
 
 ## Plan
 
-- [SW Hylicopter view](./docs/SW_Hylicopter_View.pdf)
+- [SW Helicopter view](./docs/SW_Helicopter_View.pdf)
 - [Team Distribution](./docs/Team_Dist.txt)
-- [Plan](./docs/Wave 23 - Corelia.xlsx)
+- [Plan](./docs/Wave23_Plan_Corelia.xlsx)
