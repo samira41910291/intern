@@ -1,0 +1,16 @@
+* Data Science
+ - Ahmed
+ - Dima
+ - Fatmah 
+ - Loay   // +Backend
+
+* Development - Frontend
+ - Doha   // Frontend
+ - Mohamed
+ - Aya   // Mobile
+
+* Development - Backend + C#
+ - Islam
+ - Mustafa
+ - Mark
+ 
