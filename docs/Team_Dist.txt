@@ -2,15 +2,17 @@
  - Ahmed
  - Dima
  - Fatmah 
- - Loay   // +Backend
+ - Loay    // +DMS
+ - Mustafa // +DMS
+
 
 * Development - Frontend
- - Doha   // Frontend
+ - Doha   
  - Mohamed
- - Aya   // Mobile
+  
 
-* Development - Backend + C#
+* Development - Backend - C#
  - Islam
- - Mustafa
  - Mark
+ - Aya
  

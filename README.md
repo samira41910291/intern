@@ -2,9 +2,10 @@
 
 ## Weekly meting activities
 
-- Review Past Stage and tasks and checklist
+- Review past stage and tasks and checklist
 - Review next stage
 - Determine schedule (next weekly meeting, office dates, meetings dates)
+- DMS
 
 ## Resources
 
