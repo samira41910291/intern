@@ -16,3 +16,5 @@
 - [SW Helicopter view](./docs/SW_Helicopter_View.pdf)
 - [Team Distribution](./docs/Team_Dist.txt)
 - [Plan](./docs/Wave23_Plan_Corelia.xlsx)
+- [Plan](./docs/Wave23_Plan_Corelia.xlsx)
+
