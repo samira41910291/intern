@@ -1,0 +1,23 @@
+Please finish these
+
+
+OLTP vs OLAP in: 
+
+1- Recourses used
+
+2- Purpose
+
+3- Usage
+
+ 
+
+SLICING vs DICING
+
+ 
+
+What are data marts?
+
+
+Difference between snowflake schema, star schema, galaxy schema
+
+Solve these and send to me in a docx report

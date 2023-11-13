@@ -1,0 +1,9 @@
+Discriminative and generative models are two broad categories of models in machine learning. Both types of models have their own strengths and weaknesses and are used for different tasks.
+
+Discriminative models are designed to learn the decision boundary between different classes of data. They take input data and output a decision boundary that separates the data into different classes. These models are used for classification tasks, where the goal is to assign each input to a particular class. Examples of discriminative models include logistic regression, support vector machines, and neural networks.
+
+Generative models, on the other hand, are designed to learn the underlying distribution of the data. They use the data to model the probability distribution of the input data and generate new samples from that distribution. These models are used for tasks such as image and text generation, where the goal is to generate new data that is similar to the input data. Examples of generative models include Gaussian mixture models, variational autoencoders, and generative adversarial networks.
+
+The main difference between discriminative and generative models is the type of problem they are designed to solve. Discriminative models are used for classification, while generative models are used for generation. Discriminative models are generally simpler and easier to train than generative models, but they do not provide as much insight into the underlying structure of the data. Generative models, on the other hand, can be more complex and difficult to train, but they can provide a richer understanding of the data.
+
+In summary, discriminative models are used for classification tasks, while generative models are used for generation tasks. Discriminative models are generally simpler and easier to train, while generative models provide a richer understanding of the data.
